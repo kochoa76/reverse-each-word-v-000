@@ -11,3 +11,4 @@ sentence.split.collect. do |word|
 end
 sentence.join(" ")
 end
+end
