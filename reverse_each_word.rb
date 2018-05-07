@@ -10,4 +10,4 @@ sentence.split.map do |word|
   word.reverse.join()
 end
 end
-end
+
