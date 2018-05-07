@@ -7,8 +7,7 @@ return reversed_sentence.join(" ")
 end
 
 sentence.split.map do |word|
-  word.reverse
+  word.reverse.join()
 end
 end
 end
-
