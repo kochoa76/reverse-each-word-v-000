@@ -5,6 +5,3 @@ revered_sentence<< word.reverse
 end
 return reversed_sentence.join(" ")
 end
-end
-
-end
