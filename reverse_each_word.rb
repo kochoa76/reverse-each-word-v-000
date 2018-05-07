@@ -9,5 +9,5 @@ return reversed_sentence.join(" ")
 sentence.split.collect. do |word|
   word.reverse
 end
-sentence.join(" ")
+return sentence.join(" ")
 end
