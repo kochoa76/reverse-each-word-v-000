@@ -9,4 +9,3 @@ return reversed_sentence.join(" ")
 sentence.split.collect. do |word|
   word.reverse.join(" ")
 end
-end
