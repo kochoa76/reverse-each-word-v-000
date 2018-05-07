@@ -9,5 +9,4 @@ end
 sentence.split.map do |word|
   word.reverse
 end
-end
 
