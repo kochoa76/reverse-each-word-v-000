@@ -8,5 +8,5 @@ return reversed_sentence.join(" ")
 
 sentence.split.collect {|word|
   word.reverse}.join(" ")
-end
+
 end
