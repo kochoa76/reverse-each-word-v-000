@@ -6,7 +6,7 @@ end
 return reversed_sentence.join(" ")
 
 
-sentence.split.collect. do |word|
+sentence.split.collect.join(" ") do |word|
   word.reverse
- sentence.join(" ")
+
 end
